@@ -38,3 +38,5 @@ gems.locked
 .grunt/
 bin/
 *.cache
+.project
+*.project
